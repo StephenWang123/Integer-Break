@@ -8,7 +8,7 @@ Examples:\
 3 -> 2 * 1 = **2**\
 4 -> 2 * 2  = **4**\
 5 -> 3 * 2  = **6**\
-10 -> 3 * 3 * 4 = **36**\
+10 -> 3 * 3 * 4 = **36**
 
 ## Discussion
 The brute-force approach to this question would be to list all the combinations of numbers that have a sum of **n**, then find the combination that has the highest product. 
@@ -29,7 +29,7 @@ table[1] = 2; // base case\
 table[2] = 3; // base case\
 table[3] = 4; // Max (table[1] * 2, table[0] * 3)\
 table[4] = 6; // Max (table[2] * 2, table[1] * 3)\
-table[5] = 9; // Max (table[3] * 2, table[2] * 3)\
+table[5] = 9; // Max (table[3] * 2, table[2] * 3)
 
 
 
