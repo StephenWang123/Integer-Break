@@ -5,9 +5,9 @@ Given a positive integer _n_, break it into the sum of **at least** two positive
 
 Examples:\
 2 -> 1 * 1 = **1**\
-3 -> 2 * 1 = **2**\ 
+3 -> 2 * 1 = **2**\
 4 -> 2 * 2  = **4**\
-5 -> 3 * 2  = **6**\ 
+5 -> 3 * 2  = **6**\
 10 -> 3 * 3 * 4 = **36**\
 
 ## Discussion
